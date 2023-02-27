@@ -1,8 +1,14 @@
 /* 
  * Euan Ham
  * AP Computer Science A
- * Mr. Sheldon
+ * [insert teacher name lolol]
  * Open-Ended Activity
+ * Requirements: 
+    * Write a program with a main method
+    * Create a least one new method which is called from main that takes at least one parameter
+    * Call at least two distinct methods in the String class
+    * Utilize conditional statements or compound boolean expressions
+    * Utilize iteration
 */
 public class Pokemon{
     private String name, type;
